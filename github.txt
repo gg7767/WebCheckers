@@ -1,0 +1,50 @@
+commit 804f580c117ab5e2d2a67e4cc40b0ea1c62ced96
+Author: Jacob Waclawski <54681308+jmw3638@users.noreply.github.com>
+Date:   Fri Feb 14 13:11:17 2020 -0500
+
+    Adding name.
+
+commit 79b2f238e371657edf697d187c8ed2c5bac9bb8a
+Merge: c7d2009 b2943c6
+Author: gnandeepgottipati <gnangottipati2001@gmail.com>
+Date:   Thu Feb 13 20:40:27 2020 -0500
+
+    Added the name to Readme.md
+
+commit c7d20092b146f843ebd91d27ad72694b0144f8cd
+Author: gnandeepgottipati <gnangottipati2001@gmail.com>
+Date:   Thu Feb 13 20:31:29 2020 -0500
+
+    Initial commit
+
+commit b2943c660d60256621db0d4730929a39674c5522
+Author: dec2736 <59898161+dec2736@users.noreply.github.com>
+Date:   Thu Feb 13 20:31:20 2020 -0500
+
+    Added member
+
+commit cc0a57ed88309083216e0f7aa6c7c6a0cc5705bf
+Author: KennBMartinez <kbmvse@rit.edu>
+Date:   Fri May 31 16:46:59 2019 -0400
+
+    Updates for you to always include disclaimers
+
+commit 58a0d2291cd13129702c22c1d52aa5c44b4f150a
+Author: KennBMartinez <kbmvse@rit.edu>
+Date:   Fri May 31 16:39:27 2019 -0400
+
+    For your benefit.
+    
+    Share if you think something else is needed.
+
+commit ce03d52fe9e6b3b6c9d824d65d9e77777fe1e31e
+Author: KennBMartinez <kbmvse@rit.edu>
+Date:   Fri May 31 16:35:55 2019 -0400
+
+    Initial WEBCHECKERS SEED REPO 2188-2191
+
+commit 7e7b18fcb7e7d1297d8985bf430ed1f27fa92151
+Author: KennBMartinez <kbmvse@rit.edu>
+Date:   Fri May 31 16:32:48 2019 -0400
+
+    Initial commit

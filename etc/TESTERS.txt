@@ -1,0 +1,5 @@
+1. Run the application by typing 'mvn compile exec:java' into the terminal.
+
+2. Access the server by opening a browser to localhost:4567.
+
+3. To initiate a game, you will need to open a different browser to localhost:4567, signin on both pages and select the other player in the lobby.
